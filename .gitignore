@@ -1,0 +1,5 @@
+# ignore training folder
+images/train
+venv
+.idea/
+index/
